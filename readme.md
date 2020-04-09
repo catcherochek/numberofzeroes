@@ -3,7 +3,7 @@
 
 ** composer install
 
-on a web server navigate index.php   e.g. http://localhost/factorialTests/index.php
+on a web server navigate index.php   e.g. http://localhost/numberofzeroes/index.php
 
 tests  -  run in console :
 
