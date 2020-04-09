@@ -1,12 +1,12 @@
 
 ***Check number of zeroes in factorial***
 
-**git clone https://github.com/catcherochek/numberofzeroes**
+**````git clone https://github.com/catcherochek/numberofzeroes````**
 
-**composer install**
+**````composer install````**
 
 on a web server navigate index.php   e.g. http://localhost/numberofzeroes/index.php
 
 tests  -  run in console :
 
-**vendor\bin\phpunit**
+**````vendor\bin\phpunit````**
