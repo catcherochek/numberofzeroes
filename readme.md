@@ -1,6 +1,8 @@
 
 ***Check number of zeroes in factorial***
 
+**git clone https://github.com/catcherochek/numberofzeroes**
+
 **composer install**
 
 on a web server navigate index.php   e.g. http://localhost/numberofzeroes/index.php
