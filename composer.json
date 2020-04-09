@@ -1,0 +1,9 @@
+{
+    "name": "klim/tet",
+    "description": "description",
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}
