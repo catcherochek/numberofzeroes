@@ -1,5 +1,5 @@
 
-*** Check number of zeroes 
+*** Check number of zeroes in factorial
 
 ** composer install
 
