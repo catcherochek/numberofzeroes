@@ -2,7 +2,7 @@
 ***Quiz:Check number of zeroes in factorial***
 ===================================
 
-Use php 7.4
+Use php 7.3+
 
 **in console:**
 
