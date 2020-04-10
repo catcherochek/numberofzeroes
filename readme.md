@@ -2,6 +2,8 @@
 ***Quiz:Check number of zeroes in factorial***
 ===================================
 
+Use php 7.4
+
 **in console:**
 
 ````git clone https://github.com/catcherochek/numberofzeroes````
